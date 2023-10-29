@@ -13,3 +13,7 @@ CMakeLists.txt.user
 # Ignore generated python artifacts
 *.pyc
 copts/__pycache__/
+
+*.vcxproj
+*.vcxproj.*
+bin-int/
